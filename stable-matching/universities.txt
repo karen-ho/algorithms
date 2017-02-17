@@ -1,0 +1,15 @@
+Princeton University:Isabella,Lucas,Ethan,Aria,Jackson,Olivia,Noah,Mia,Emma,Liam,Riley,Mason,Aiden,Sophia,Ava
+Harvard University:Mia,Lucas,Aria,Ava,Ethan,Olivia,Sophia,Isabella,Emma,Mason,Liam,Jackson,Riley,Aiden,Noah
+University of Chicago:Liam,Mason,Sophia,Jackson,Aria,Olivia,Ava,Ethan,Aiden,Lucas,Riley,Isabella,Emma,Noah,Mia
+Yale University:Ava,Mason,Lucas,Ethan,Aria,Sophia,Olivia,Mia,Emma,Noah,Jackson,Liam,Isabella,Aiden,Riley
+Columbia University:Aiden,Emma,Lucas,Aria,Mia,Olivia,Ethan,Noah,Jackson,Liam,Sophia,Ava,Mason,Riley,Isabella
+Stanford University:Olivia,Sophia,Ava,Emma,Riley,Mia,Aiden,Isabella,Lucas,Ethan,Noah,Mason,Jackson,Aria,Liam
+Massachusetts Institute of Technology:Sophia,Aiden,Olivia,Ethan,Riley,Isabella,Mia,Noah,Aria,Ava,Mason,Emma,Liam,Lucas,Jackson
+Duke University:Ava,Emma,Noah,Jackson,Sophia,Mia,Olivia,Ethan,Aria,Mason,Riley,Liam,Aiden,Isabella,Lucas
+University of Pennsylvania:Aria,Jackson,Ava,Mia,Noah,Olivia,Lucas,Ethan,Mason,Isabella,Sophia,Liam,Aiden,Emma,Riley
+Johns Hopkins University:Mason,Ethan,Ava,Aria,Aiden,Mia,Riley,Noah,Jackson,Liam,Olivia,Sophia,Lucas,Emma,Isabella
+Dartmouth College:Ethan,Jackson,Liam,Olivia,Sophia,Noah,Mia,Aria,Ava,Lucas,Emma,Aiden,Riley,Isabella,Mason
+California Institute of Technology:Riley,Aria,Sophia,Aiden,Ethan,Emma,Liam,Olivia,Ava,Mason,Isabella,Noah,Mia,Jackson,Lucas
+Northwestern University:Mia,Riley,Isabella,Lucas,Liam,Noah,Sophia,Mason,Aria,Aiden,Ethan,Ava,Jackson,Olivia,Emma
+Brown University:Ethan,Olivia,Emma,Riley,Aria,Noah,Isabella,Mason,Lucas,Ava,Sophia,Liam,Aiden,Jackson,Mia
+Cornell University:Lucas,Jackson,Noah,Liam,Emma,Mason,Sophia,Olivia,Ava,Ethan,Aiden,Aria,Mia,Isabella,Riley
